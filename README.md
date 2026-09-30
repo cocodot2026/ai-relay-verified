@@ -29,7 +29,7 @@ self-reports are labeled as such; reproduce them before trusting.
 | Relay | Pay | Models | Compat | Verifiable? | Score | Evidence |
 |---|---|---|---|---|---|---|
 | [OpenRouter](https://openrouter.ai) | card / crypto | 300+ | OpenAI | yes | ⏳ awaiting | — |
-| [cocodot](https://cocodot.co) | Alipay/CNY | Claude/GPT/Gemini/DeepSeek | OpenAI + Anthropic | yes | **87** · vendor self-report ⚠️ | [method](METHODOLOGY.md) |
+| [cocodot](https://cocodot.co?utm_source=github&utm_medium=readme&utm_campaign=ai-relay-verified) | Alipay/CNY | Claude/GPT/Gemini/DeepSeek | OpenAI + Anthropic | yes | **87** · vendor self-report ⚠️ | [method](METHODOLOGY.md) |
 | _your relay_ | … | … | … | … | submit a result → | [how](CONTRIBUTING.md) |
 
 ⚠️ **cocodot is maintained by this repo's author** (disclosed). Its score is a
@@ -61,7 +61,7 @@ competitors and critics on equal terms.
 
 ## Disclosure
 
-Maintained by the team behind [cocodot](https://cocodot.co), a relay. cocodot
+Maintained by the team behind [cocodot](https://cocodot.co?utm_source=github&utm_medium=readme&utm_campaign=ai-relay-verified), a relay. cocodot
 appears as one *disclosed, self-reported* entry — reproduce its score like any
 other. This directory only earns its keep by being **neutral**: if it ever ranks
 cocodot above better-verified peers, it's broken — open an issue.

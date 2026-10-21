@@ -41,7 +41,7 @@
       "notes": "DISCLOSED: maintained by this repo's author. Self-reported via LLMprobe — reproduce before trusting. Listed on equal terms, not ranked above unverified peers."
     },
     {
-      "name": "DSH API",
+      "name": "removed",
       "url": "https://your-endpoint.example.com",
       "payment": [
         "alipay",
